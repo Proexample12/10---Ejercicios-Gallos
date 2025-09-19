@@ -1,0 +1,6 @@
+C:\Users\mgmav\OneDrive\Escritorio\Ejericicios de los gallos\RegistroMatricula\MatriculaLibrary\bin\Debug\MatriculaLibrary.dll
+C:\Users\mgmav\OneDrive\Escritorio\Ejericicios de los gallos\RegistroMatricula\MatriculaLibrary\bin\Debug\MatriculaLibrary.pdb
+C:\Users\mgmav\OneDrive\Escritorio\Ejericicios de los gallos\RegistroMatricula\MatriculaLibrary\obj\Debug\MatriculaLibrary.csproj.AssemblyReference.cache
+C:\Users\mgmav\OneDrive\Escritorio\Ejericicios de los gallos\RegistroMatricula\MatriculaLibrary\obj\Debug\MatriculaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mgmav\OneDrive\Escritorio\Ejericicios de los gallos\RegistroMatricula\MatriculaLibrary\obj\Debug\MatriculaLibrary.dll
+C:\Users\mgmav\OneDrive\Escritorio\Ejericicios de los gallos\RegistroMatricula\MatriculaLibrary\obj\Debug\MatriculaLibrary.pdb
